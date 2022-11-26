@@ -1,0 +1,8 @@
+# Front end installed dependencies
+/frontend/node_modules
+
+# Front end build files
+/frontend/build
+
+# Back end installed dependencies
+/backend/node_modules
